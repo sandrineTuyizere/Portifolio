@@ -15,7 +15,7 @@ this portifolio is a part of Moringa School independent projects assessments. it
 * Internet Connection
 * Ubuntu OS.
 
-### How to Clone Repo
+### How to run the project
 use the command "git clone https://github.com/sandrineTuyizere/Portifolio.git in command line"
 
 ## GitHub link for the Project
