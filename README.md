@@ -18,8 +18,8 @@ this portifolio is a part of Moringa School independent projects assessments. it
 ### How to run the project
 use the command "git clone https://github.com/sandrineTuyizere/Portifolio.git in command line"
 
-## GitHub link for the Project
-https://github.com/sandrineTuyizere/Portifolio.git
+## GitHub Pages link for the Project
+https://sandrinetuyizere.github.io/Portifolio/
 
 ## support and contact details
 for more information,ideas or reccommendation you can reach to me by my email address : sadrauyizere@gmail.com
